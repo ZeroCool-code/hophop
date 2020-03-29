@@ -1,0 +1,109 @@
+body {
+    background-color: #d4ebd0;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: #66BFBF;
+    margin: 0;
+    margin: 50 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    background-color: none;
+    border-style: none;
+    border-style: dotted none none;
+    width: 30%;
+    border-color: rgb(201, 188, 188);
+    border-width: 10px;
+    margin-top: 20px;
+}
+
+
+/****************************CLASS TAGS********************/
+
+.top {
+    background-color: #aacfcf;
+}
+
+.middle {}
+
+.bottom {}
+
+.cloud_bottom {
+    position: relative;
+    right: 100px;
+    bottom: 200px;
+    left: 150px;
+    bottom: 300px;
+}
+
+.gg {
+    position: relative;
+    left: 200px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.second-half {
+    background-color: #d4ebd0;
+    margin-top: 0;
+}
+
+.bottom-container {
+    background-color: rgb(105, 105, 175);
+    margin-top: 50px;
+}
+
+.footer-link {
+    margin-top: 50px;
+}
+
+.middle-container {
+    margin-bottom: 20px;
+}
+
+
+/*******************************ID TAGS*******************/
+
+#profile-pic {
+    border-radius: 100%;
+    height: 15%;
+    width: 15%;
+    margin-top: 50px;
+}
+
+#game-c {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 100%;
+}
+
+#car-l {
+    width: 25%;
+    border-radius: 100%;
+    float: right;
+    margin-left: 30px;
+}
